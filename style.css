@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(155, 224, 219);
+    color: white;
+}
+label{
+    background-color: cornflowerblue;
+    color: black;
+}
+input,button{
+    background-color: darkcyan;
+    color: white;
+}
